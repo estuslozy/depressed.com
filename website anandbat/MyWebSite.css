@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+     <meta charset="utf-8">
+     <meta http-equive="X-UA-Compatible" content="IE=edge">
+     <title>Navbar</title>
+     <meta name="description" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+     <header>
+	    <nav>
+		    <ul class="nav_links">
+			    <li><a href="file:///C:/Users/xpand/OneDrive/Desktop/Web%20Homework/Web/MyWebSite.html#">Нүүр Хуудас</a></li>
+				<li><a href="file:///C:/Users/xpand/OneDrive/Desktop/Web%20Homework/Web/MyWebSite2.html">Миний Талаар</a></li>
+				<li><a href="#">Холбоо Барих</a></li>
+			</ul>
+		</nav>
+	</header>
+</body>
+<div class="center">
+  <p>Пийрсон ВТЕС Мэдээллийн технологийн чадварлаг сурагчдын хийсэн өндөр чанартай, найдвартай бүтээгдэхүүнийг хэрэглэцгээе</p>
+</div>
+<marquee scrollamount-"5"bgcolor="yellow"> Пийрсон BTEC МТ түвшин 3!</marquee>
+  <div class="container">
+  <img class="img_deg" src="Images/Radiohead.png" alt="logo" width="300" height="300">
+<ul style="list-style-type:square;">
+<ul style="line-height:370%">
+  <li>Ложицтик Систем</li><br>
+  <li>Ангаахын Систем</li><br>
+  <li>Боловсролын Систем</li><br>
+  </ul
+</div>
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Ложицтик Систем</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: blue;
+   color: white;
+   text-align: center;
+}
+#rcorners1 {
+  border-radius: 25px;
+  background: blue;
+  padding: 20px; 
+  width: 1190px;
+  height: 150px;  
+}
+#rcorners2 {
+  border-radius: 25px;
+  background: blue;
+  padding: 20px; 
+  width: 1190px;
+  height: 400px;
+}
